@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://pythomaster.com/sitemap.xml
+Sitemap: https://abhinavagarwal3.github.io/sitemap-hosting/sitemap.xml
 
 # Disallow any temp or system directories
 Disallow: /tmp/
